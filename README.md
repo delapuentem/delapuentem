@@ -1,6 +1,6 @@
 ### Hi, im Jorge de la Puente 👋
 
-- 🌳 I'm Python developer and InfluxData administrator.
+- 🌳 I'm software developer and InfluxData administrator.
 - 🔭 I'm currently working at DXC Technology in Madrid/Spain.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delapuentem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
